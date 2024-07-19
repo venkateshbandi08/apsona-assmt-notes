@@ -1,4 +1,4 @@
-const url = "https://iterate-ai-assignment.onrender.com";
+const url = "https://apsona-assmt-notes.onrender.com";
 const noteToken = localStorage.getItem("noteToken");
 
 if (!noteToken) {
